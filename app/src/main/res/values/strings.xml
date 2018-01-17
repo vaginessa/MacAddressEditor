@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MAC地址修改</string>
+    <string name="description">修改WIFI的MAC地址</string>
+    <string name="input_hint">MAC地址格式形如：XX:XX:XX:XX:XX:XX(XX为16进制字符，详细请看搜索引擎)</string>
+    <string name="author">卧槽工作室·落叶似秋制作\n\n请谨慎修改！输错MAC地址将会导致手机运行不正常!!!如果想恢复原来的MAC地址，直接不启用此模块，并重启手机即可！</string>
+</resources>
